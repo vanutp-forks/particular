@@ -30,6 +30,7 @@
 		"InjectWaterBubbleParticle",
 		"InjectWaterFluid",
 		"InvokerLivingEntity",
-		"InjectWorldRenderer"
+		"InjectWorldRenderer",
+		"InjectConfigWrapper"
 	]
 }

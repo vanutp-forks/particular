@@ -1,0 +1,6 @@
+[*]
+indent_size = 4
+indent_style = tab
+ij_java_class_brace_style = next_line
+ij_java_method_brace_style = next_line
+ij_java_block_brace_style = next_line

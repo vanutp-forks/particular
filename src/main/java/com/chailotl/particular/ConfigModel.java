@@ -1,6 +1,6 @@
 package com.chailotl.particular;
 
-import com.chailotl.sushi_bar.owo.config.SushiModmenu;
+import com.chailotl.particular.sushi_bar.owo.config.SushiModmenu;
 import io.wispforest.owo.config.annotation.*;
 import io.wispforest.owo.ui.core.Color;
 import net.minecraft.util.Identifier;
